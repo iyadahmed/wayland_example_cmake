@@ -1,3 +1,5 @@
+// Code from: https://wayland-book.com/xdg-shell-basics/example-code.html
+
 #define _POSIX_C_SOURCE 200112L
 
 #include "xdg-shell-client-protocol.h"
